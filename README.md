@@ -8,7 +8,12 @@ Esta página é totalmente responsiva, onde foi produsido para se adequar a qual
 
 <img src="https://ifankar.com/wp-content/uploads/2019/11/htmlcssbootstrap.jpg" width="350px"><br>
 
-<h1 aling="center"> layout </h1>
+<h1 aling="center"> 💻️ Layout Desktop</h1>
+<img src="https://github.com/marcosaureliodev/Page-Finance/blob/master/img/desktopfinans.png"><br>
+
+<h1 aling="center"> 📱 Layout Mobile</h1>
+
+<img src="https://github.com/marcosaureliodev/Page-Finance/blob/master/img/mobilefinans.png" width="350px"> <img src="https://github.com/marcosaureliodev/Page-Finance/blob/master/img/mobilefinans2.png" width="350px">
 
 # 📱 Redes Sociais
 
