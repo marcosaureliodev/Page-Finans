@@ -4,9 +4,9 @@
 
 Esta página é totalmente responsiva, onde foi produsido para se adequar a qualquer tamanho de tela ou dispositivo.
 
-<h1 aling="center"> Tecnólogias usadas</h1>
+<h1 aling="center"> Tecnólogia usada</h1>
 
-<img src="https://ifankar.com/wp-content/uploads/2019/11/htmlcssbootstrap.jpg" width="350px"><br>
+<img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="350px"><br>
 
 <h1 aling="center"> 💻️ Layout Desktop</h1>
 <img src="https://github.com/marcosaureliodev/Page-Finance/blob/master/img/desktopfinans.png"><br>
